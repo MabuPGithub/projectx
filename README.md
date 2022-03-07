@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+For page 1 of the exam:
+
+What will happen when the update action receives the following parameters?
+1. The user model will not be updated because an unexpected parameter was provided, 
+and the user will be redirected to the edit page.
